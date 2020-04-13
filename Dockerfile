@@ -1,7 +1,7 @@
 FROM migrate/migrate:v4.10.0
 
 USER root
-RUN apk update && apk add unzip && apk add bash
+RUN apk update && apk add unzip && apk add bash && apk add jq
 
 # Terraform 0.11
 ADD https://releases.hashicorp.com/terraform/0.11.14/terraform_0.11.14_linux_amd64.zip /usr/local/bin
