@@ -6,7 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-[`go-migrate:0.3` `go-migrate:latest` (*Dockerfile*)](https://github.com/EON-COM/go-migrate/blob/master/Dockerfile)
+[`go-migrate:0.4` `go-migrate:latest` (*Dockerfile*)](https://github.com/EON-COM/go-migrate/blob/master/Dockerfile)
 
 
 # Quick reference
@@ -33,7 +33,7 @@ This is the image used for database migrations.
 ### Tools installed inside the image
 
 - go-migrate:4.10.0
-- terraform:0.12.26
+- terraform:0.14.4
 - cloud-sql-proxy
 
 # License
