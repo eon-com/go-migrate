@@ -6,7 +6,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
-[`go-migrate:0.5` `go-migrate:latest` (*Dockerfile*)](https://github.com/EON-COM/go-migrate/blob/master/Dockerfile)
+[`go-migrate:0.6` `go-migrate:latest` (*Dockerfile*)](https://github.com/EON-COM/go-migrate/blob/master/Dockerfile)
 
 
 # Quick reference
